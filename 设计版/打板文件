@@ -1,1 +1,6 @@
 打板文件
+俄罗斯大神设计的板子
+
+ESP32 + zigbee模块=通用zigbee网关
+Zigbee模块+ usb-uart = zigbee协调器，可与zigbee2mqtt，ioBroker等配合使用。
+ESP32 +放大器=网络广播，RGB灯
